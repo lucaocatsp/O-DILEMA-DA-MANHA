@@ -1,0 +1,40 @@
+body{
+
+    background-color: yellowgreen;
+    color: #0a0606;
+
+    font-family: 'Fjalla Um',sans-serif; display: flex; 
+    justify-content: center;
+    align-items: center;
+    height: 700;
+    margin: 0;
+     
+}
+button{
+background-color: blueviolet;
+color:rgb(198, 198, 217)
+font-family: 'Fjalla Um'
+
+
+}
+.passo{
+
+display: none;
+
+}
+
+
+.passo.ativo{
+
+display: block;
+
+}
+main{
+
+max-width: 90%;
+text-align: center;
+}
+img{
+    max-width: 90%;
+
+}
